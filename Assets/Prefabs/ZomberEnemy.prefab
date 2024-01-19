@@ -3109,7 +3109,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a5f6e10685e3cf4192a93ae5cab8d79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
   chaseRange: 12
   turnSpeed: 5
   walkingSound: {fileID: 8300000, guid: 83279f629590da0439673d14cd3cf328, type: 3}
